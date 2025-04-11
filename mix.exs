@@ -42,7 +42,7 @@ defmodule Membrane.CameraCapture.Mixfile do
       {:bundlex, "~> 1.2"},
       {:unifex, "~> 1.0"},
       {:membrane_precompiled_dependency_provider, "~> 0.1.0"},
-      {:membrane_raw_video_format, "~> 0.3.0"},
+      {:membrane_raw_video_format, "~> 0.4.1"},
       {:ex_doc, ">= 0.0.0", only: :dev, runtime: false},
       {:dialyxir, ">= 0.0.0", only: :dev, runtime: false},
       {:credo, ">= 0.0.0", only: :dev, runtime: false},
